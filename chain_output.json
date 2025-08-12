@@ -1,0 +1,30 @@
+[
+    {
+        "index": 0,
+        "timestamp": 1755012754.4111836,
+        "data": "Genesis Block",
+        "previous_hash": "0",
+        "hash": "f0c4d8e7676a5d37105c475c85f256c2f0cd8152d07b9d8f6b117a1a6dd61c05"
+    },
+    {
+        "index": 1,
+        "timestamp": 1755012754.4111836,
+        "data": "Alice sends 5 BTC to Bob",
+        "previous_hash": "f0c4d8e7676a5d37105c475c85f256c2f0cd8152d07b9d8f6b117a1a6dd61c05",
+        "hash": "722adacb207d95c047213b3c9de32a7b48b259941e524593db519596dafe13b5"
+    },
+    {
+        "index": 2,
+        "timestamp": 1755012754.4111836,
+        "data": "DATA REMOVED PER GDPR REQUEST",
+        "previous_hash": "722adacb207d95c047213b3c9de32a7b48b259941e524593db519596dafe13b5",
+        "hash": "25e360d8313eada9be8508420573a43b156a1b554f4544bd6bbc64201f67a78c"
+    },
+    {
+        "index": 3,
+        "timestamp": 1755012754.4111836,
+        "data": "Charlie sends 1 BTC to Dave",
+        "previous_hash": "f98a2d74e892448c6c958ddbd3b3a96012458aefb740dd592d8987cf03ce2ec6",
+        "hash": "bf374893cf6358cf86049110a463f35f7d5b50c9c4cfa22d577036a18c6614ef"
+    }
+]
